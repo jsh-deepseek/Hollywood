@@ -14,3 +14,6 @@ Describe how to get started here.
 ## License
 
 [MIT](LICENSE)
+## About
+
+This is my first GitHub project!
